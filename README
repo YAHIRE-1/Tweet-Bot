@@ -1,0 +1,21 @@
+# Twitter Image Uploader
+
+Este proyecto es una herramienta automatizada que tuitea imágenes desde tu dispositivo cada 30 minutos. Utiliza la API de Twitter para subir imágenes y crear tuits de manera programada.
+
+## Funcionalidades
+
+- **Sube imágenes**: Busca imágenes en tu dispositivo y las tuitea automáticamente.
+- **Programación**: Utiliza `cron` para ejecutar la tarea cada 30 minutos.
+- **Limpieza**: Elimina las imágenes después de subirlas para mantener tu almacenamiento ordenado.
+
+## Requisitos
+
+- Node.js
+- npm (Node Package Manager)
+- Una cuenta de Twitter y credenciales de API (API Key, API Secret, Access Token, Access Token Secret)
+
+## Instalación
+
+1. **Clona el repositorio**:
+   ```bash
+   git clone 
