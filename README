@@ -18,4 +18,19 @@ Este proyecto es una herramienta automatizada que tuitea imágenes desde tu disp
 
 1. **Clona el repositorio**:
    ```bash
-   git clone 
+   git clone ## Instalación
+
+1. **Clona el repositorio**:
+   ```bash
+   git clone https://github.com/YAHIRE-1/Tweet-Bot.git
+
+# Ejecuta los siguientes comandos 
+
+npm init -y
+npm i fs path cron twitter-api-v2
+
+# Inicia 
+
+node index.js
+
+Para mas informacion visita : https://youtu.be/QAOLXSjMzIk
